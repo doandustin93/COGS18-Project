@@ -1,0 +1,3 @@
+# If your project has any requirements not included in anaconda, include them here
+# I had to import tkinter and tkinter.ttk, but other than that, everything else was made by me.
+# In addition, I also imported the random module as well as its "choice" function. They were imported twice because one of my functions required me to embed the random module importation in order to successfully work. 
